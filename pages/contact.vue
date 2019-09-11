@@ -3,7 +3,7 @@
     <site-hero
       title="Contact Me"
       subtitle="Prioritize in this order: Honesty > Clarity > Civility"
-      image="/uploads/contact-hero.jpg"
+      image="/uploads/IMG_Donuts_20190323_163913_processed.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
