@@ -13,7 +13,7 @@ $colors: (
   "black": ($black, $white),
   "light": ($light, $light-invert),
   "dark": ($dark, $dark-invert),
-  "primary": ($primary, $primary-invert),
+  "primary": ($primary, #000),
   "info": ($info, $info-invert),
   "success": ($success, $success-invert),
   "warning": ($warning, $warning-invert),
