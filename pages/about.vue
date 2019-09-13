@@ -15,10 +15,10 @@
             </strong>
           </p>-->
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci
-            eligendi impedit inventore ipsa laboriosam libero magnam modi odio,
-            sunt temporibus. Distinctio doloremque eum magni nostrum quasi
-            ratione rem repudiandae sit!
+            I love solving problems. Even the unsolvable. 
+          </p>
+          <p>
+            The truth is, we never know what we cannot solve. It's only clear what we can solve, when we solve it. 
           </p>
 
           <h3>A Jack of all trades and a master of some.</h3>
