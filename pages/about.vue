@@ -3,7 +3,7 @@
     <site-hero
       title="About Steve"
       subtitle="Engineering the Fun in Fundamental"
-      image="/uploads/about-hero.jpg"
+      image="/uploads/IMG_Ice_Rink_20181209_215934_processed.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
@@ -32,7 +32,7 @@
             It's not really something to brag about, honestly. Everyone thinks they have the best answers. There's really on solace in the fact that you can be a part of a growing community of those who genuinely thrive to test if they have the best answers. 
           </p>
           <!--<quote-card />-->
-          <h3>Fun stuff to find in this blog</h3>
+          <h3>What to expect in this blog</h3>
           <p>
             My future plans for this blog are to share my thoughts and ideas as well as to listen to your comments about them. The world needs all of us to solve all of the world's problems. You can expect: 
             <ul style="list-style-type:disc;">
@@ -40,7 +40,7 @@
               <li>Project posts of serious ideas that I want to implement.</li>
               <li>Philosophical posts about the answers to the BIG questions.</li>
               <li>Rant posts, hopefully twisted into the form of civil community efforts.</li>
-              <li>Entertainment posts to include: <ul style="list-style-type:disc;"><li>music</li><li>voice acting</li><li>amateur drawing</li><li>story writing</li> Much of which will be open source licenced and requesting talented contributions from the community.</li>
+              <li>Entertainment posts to include: <ul style="list-style-type:disc;"><li>music</li><li>voice acting</li><li>amateur drawing</li><li>story writing</li></li>
             </ul>   
           </p>
         </div>
