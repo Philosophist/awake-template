@@ -12,7 +12,7 @@ export default {
   siteName: "Steve The Philosophist's Blog",
   tagline: 'Resisting Progress Is Futile',
   featureImage: '/uploads/IMG_Surf_20180703_183027_processed.jpg',
-  logo: 'logo.svg', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
@@ -32,7 +32,7 @@ export default {
     }
   ],
   hero: {
-    theme: 'light' // options: mist, light, dark
+    theme: 'mist' // options: mist, light, dark
   },
 
   // Main Layout/Style
@@ -43,7 +43,7 @@ export default {
 
   // Card Layout
   cards: {
-    imageDimensions: '4x3', // Options: 1x1, 5x4, 4x3, 3x2, 5x3, 16x9, 2x1, 3x1, 4x5, 3x4, 2x3, 3x5, 9x16
+    imageDimensions: '16x9', // Options: 1x1, 5x4, 4x3, 3x2, 5x3, 16x9, 2x1, 3x1, 4x5, 3x4, 2x3, 3x5, 9x16
     theme: 'boxes' // Options: boxes, grid, image-grid
   },
 
@@ -51,20 +51,20 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: "Philosophist's blog" // 'blog-danielkelly-io'
   },
 
   // Newsletter Subscribe
   newsletter: {
     on: true,
-    heading: 'Subscribe to Our Newsletter',
+    heading: 'Subscribe for emailed updates',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
       on: true,
       formAction:
-        'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
+        'https://gmail.us4.list-manage.com/subscribe/post?u=931c34ccd71f474b824ee4912&amp;id=9e9108fe68'
     },
     custom: {
       on: false,
@@ -75,7 +75,7 @@ export default {
   // Categories
   categories: {
     on: true,
-    perPage: 6,
+    perPage: 9,
     imageDimensions: null, // See card.imageDimensions (can be unique for categories if set here)
     theme: null // See card.theme (can be unique for categories if set here)
   },
