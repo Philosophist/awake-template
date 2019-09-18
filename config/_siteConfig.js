@@ -50,7 +50,7 @@ export default {
   // Disqus
   disqus: {
     on: true,
-    loadingStrategy: 'button', // Options: onload, lazy, button
+    loadingStrategy: 'onload', // Options: onload, lazy, button
     siteShortName: "Philosophist's blog" // 'blog-danielkelly-io'
   },
 
