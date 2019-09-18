@@ -4,41 +4,185 @@ subtitle: Awake is Built to Be Blazing Fast
 category:
   - Creative Works
 author: Steve The Philosophist
-date: 2019-09-03T019:24:0.000Z
-featureImage: /uploads/marc-olivier-jodoin-nqoinj-ttqm-unsplash.jpg
+date: '2019-09-03T019:24:0.000Z'
+featureImage: /uploads/IMG_Stars_20190405_193410_processed.jpg
 ---
-Awake is fast for a couple different reasons. It both capitalizes on the platform it's built for (JAM Stack) and the framework it's built on (Nuxt.js) as well as includes some intentional optimizations to improve the end user experience when it comes to speed. 
+The following poem is something I wrote to convey a small moral warning to those who think that being the king of the hill is worth bulldozing the hill to get there.
 
-## The JAM Stack
+# Tale of The Beer Tycoon
 
-The JAM stack is a way of building websites that compile down basically to html, css, and javascript and then is served over a CDN. API's are then sprinkled in to add more advanced functionality where needed. Because there is no server, no computations to run, initial response time is like lightening. 
+Once there was a brewer named Dave who created a brew.
 
-## Nuxt.js
+It was a beer to itself. Nothing compared as he knew.
 
-[Nuxt.js](https://www.nuxtjs.org) has the ability to generate static sites that are served on the JAM Stack, building plain old html files... but those html files are super-powered with Vue.js. What this means, is that pages have content "hard coded" into the html files for top-rate SEO scores but after initial page load behave as a traditional SPA with smooth page transitions, minimal data served between requests, etc. This means Awake is fast both on both the first page visitors hit and even faster on subsequent pages.
+It was strong, hoppy, malty, and sweet.
 
-## Purge CSS
+It paired well with anything you wanted to eat.
 
-Awake uses the [Bulma](https://bulma.io/) framework for a starting place for styles but certainly doesn't use every style the Bulma framework provides. [Purge CSS](https://www.purgecss.com/) minimizes the css sent to the browser by removing any unused styles at compile time. You can read more about how Awake uses Purge CSS in this [post](/light-css-footprint).
+<br>
 
-## Opti-Image + Responsive Loader
+Dave determined it was his favorite beer, 
 
-[Opti-Image](https://www.npmjs.com/package/opti-image) is a little vue component I wrote to be able to serve images in the most performant way possible. It supports webp's for browser's that support it (though not using the webp functionality for Awake, yet...), lazy loading out of the box, and easy srcset management. [Responsive Loader (the Nuxt Flavor)](https://www.npmjs.com/package/nuxt-responsive-loader) auto optimizes image quality for best performance in the browser and creates multiple sizes for different devices. Combine these 2 together and all image on Awake are basically guaranteed to fly. 
+convinced it was better than any.
 
-## Font Awesome 5
+So he set off to build a small business. 
 
-Awake comes with Font Awesome 5 support out of the box, so you have a wealth of free quality icons at your finger tips. However, if you're used to using Font Awesome in the more traditional manner without a build step you may be thinking: "What about all those icons I don't actually use? Aren't they just bloat?" Not so with Awake, with webpack we can bundle only the icons we're using. This does mean an extra step of registering a new icon when you want to use it, but that's as easy as adding it to an array in `config/modules.js` like so: 
+He invested everything for the taste buds of the many.
 
-```
- icons: ['faTimes', 'faSearch', 'faEnvelope', 'faUser', 'faBriefcase']
-```
+<br>
 
-## Lazy Loading Like Crazy
+Over time, Dave discovered 
 
-In order to speed up both compile time and page load time, basically everything but the header, footer, hero, and main content of the posts are lazy loaded. All grids are lazy loaded with infinite scroll and all images (feature images and those in posts) are also lazy loaded. Comments can be lazy loaded or loaded on click of "Show Comments" button.
+He had more than a talent for craft.
 
-## Pretty Stinkin' Fast, I'd Say
+He had business savvy to spare,
 
-I've taken a number of steps to try and make Awake as fast and snappy as possible for the end user and I think you'll find it's been handled fairly well. Last I ran one of the posts through Page Speed Insights I got a 99 score for desktop and 89 for mobile. [Give it a try for yourself!](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fawake-template.netlify.com%2Fpost-markup-and-formatting%2F&tab=desktop)
+ As his large competitors laughed.
 
-![Page speed insights score 99!!](/uploads/page-speed-insights.jpg)
+
+
+But Dave’s business was booming,
+
+Almost in no time, it seemed.
+
+Investors begged to give him a fortune, 
+
+Just to buy him out clean.
+
+ 
+
+Page 5
+
+Dave turned to them and said, "No thank you.
+
+I don't know how my beer truly fares in your view.
+
+The joy of the craft is that this beer stands alone.
+
+I will build my own fortune and buy my own throne."
+
+ 
+
+Page 6
+
+Dave built a brewing empire from the ground up in his name.
+
+His business expanded and earned him world fame.
+
+ 
+
+In business, his tactics were ambitious. 
+
+Even cutthroat to boot.
+
+He built a great fortune, bought a comfortable throne, 
+
+And he wore a nice suit.
+
+ 
+
+Page 7
+
+Beer lovers across the globe admired him. 
+
+To his fans, he was friendly.
+
+He sponsored beer tastings, competitions,
+
+And conventions aplenty.
+
+ 
+
+Page 8
+
+Amidst all of his virtues, 
+
+Dave's integrity was strong.
+
+If his beer was not the best, 
+
+He would to know if he was wrong.
+
+ 
+
+Page 9
+
+One day, Dave met a brewer named James, 
+
+With a taste of new drink.
+
+"I didn't forget my keys for nothing!," 
+
+Dave said with a wink.
+
+ 
+
+Page 10
+
+Dave gave it a taste... 
+
+And was amazed by the flavor!
+
+Something even better than his own brew? 
+
+This he had to savor.
+
+ 
+
+Page 11
+
+"How much do you want for it?," 
+
+Dave said with a gasp.
+
+James replied, "I'm honored truly, 
+
+But afraid I must pass.
+
+ 
+
+The value of this beer will stand on it's own.
+
+Your integrity inspired me, to invest in it alone."
+
+ 
+
+Page 12
+
+Dave, The Beer Tycoon, understood this too well.
+
+He wished James, “Good luck!” and plotted James' business to fail.
+
+ 
+
+Page 13
+
+Dave, The Beer Tycoon, stuck to his tactics,
+
+What would give what he was after.
+
+"’Tis a shame," he thought, 
+
+"about that talented crafter."
+
+ 
+
+Page 14
+
+James' beer had failed the market, 
+
+With James none the wiser.
+
+Dave saw it as just business, 
+
+Not business as a miser.
+
+ 
+
+Page 15
+
+To the end of his days, Dave The Beer Tycoon lived on with great cheer.
+
+He remained at the top, with a fortune and throne, 
+
+Drinking his second favorite beer.
