@@ -51,7 +51,7 @@ export default {
   disqus: {
     on: true,
     loadingStrategy: 'onload', // Options: onload, lazy, button
-    siteShortName: "Philosophist's blog" // 'blog-danielkelly-io'
+    siteShortName: "philosophist-rationalbonding-com" 
   },
 
   // Newsletter Subscribe
