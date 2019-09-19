@@ -1,6 +1,6 @@
 ---
 title: Tale of the Beer Tycoon
-subtitle: Awake is Built to Be Blazing Fast
+subtitle: A warning for the successful.
 category:
   - Creative Works
 author: Steve The Philosophist
