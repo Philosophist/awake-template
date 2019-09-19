@@ -37,21 +37,18 @@ He had more than a talent for craft.
 
 He had business savvy to spare,
 
- As his large competitors laughed.
-
-
+ As his large competitors laughed.\
+<br>
 
 But Dave’s business was booming,
 
-Almost in no time, it seemed.
+In almost no time, it seemed.
 
 Investors begged to give him a fortune, 
 
 Just to buy him out clean.
 
- 
-
-Page 5
+<br>
 
 Dave turned to them and said, "No thank you.
 
@@ -61,15 +58,11 @@ The joy of the craft is that this beer stands alone.
 
 I will build my own fortune and buy my own throne."
 
- 
-
-Page 6
+<br>
 
 Dave built a brewing empire from the ground up in his name.
 
 His business expanded and earned him world fame.
-
- 
 
 In business, his tactics were ambitious. 
 
@@ -79,9 +72,7 @@ He built a great fortune, bought a comfortable throne,
 
 And he wore a nice suit.
 
- 
-
-Page 7
+<br>
 
 Beer lovers across the globe admired him. 
 
@@ -91,9 +82,7 @@ He sponsored beer tastings, competitions,
 
 And conventions aplenty.
 
- 
-
-Page 8
+<br>
 
 Amidst all of his virtues, 
 
@@ -103,9 +92,7 @@ If his beer was not the best,
 
 He would to know if he was wrong.
 
- 
-
-Page 9
+<br>
 
 One day, Dave met a brewer named James, 
 
@@ -115,9 +102,7 @@ With a taste of new drink.
 
 Dave said with a wink.
 
- 
-
-Page 10
+<br>
 
 Dave gave it a taste... 
 
@@ -127,9 +112,7 @@ Something even better than his own brew?
 
 This he had to savor.
 
- 
-
-Page 11
+<br>
 
 "How much do you want for it?," 
 
@@ -139,23 +122,17 @@ James replied, "I'm honored truly,
 
 But afraid I must pass.
 
- 
+<br>
 
 The value of this beer will stand on it's own.
 
 Your integrity inspired me, to invest in it alone."
 
- 
-
-Page 12
-
 Dave, The Beer Tycoon, understood this too well.
 
 He wished James, “Good luck!” and plotted James' business to fail.
 
- 
-
-Page 13
+<br>
 
 Dave, The Beer Tycoon, stuck to his tactics,
 
@@ -163,11 +140,8 @@ What would give what he was after.
 
 "’Tis a shame," he thought, 
 
-"about that talented crafter."
-
- 
-
-Page 14
+"about that talented crafter."\
+<br>
 
 James' beer had failed the market, 
 
@@ -177,9 +151,7 @@ Dave saw it as just business,
 
 Not business as a miser.
 
- 
-
-Page 15
+<br>
 
 To the end of his days, Dave The Beer Tycoon lived on with great cheer.
 
