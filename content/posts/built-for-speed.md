@@ -4,7 +4,7 @@ subtitle: A warning for the successful.
 category:
   - Creative Works
 author: Steve The Philosophist
-date: '2019-09-03T019:24:0.000Z'
+date: 2019-09-19T07:00:00.000Z
 featureImage: /uploads/IMG_Stars_20190405_193410_processed.jpg
 ---
 The following poem is something I wrote to convey a small moral warning to those who think that being the king of the hill is worth bulldozing the hill to get there.
