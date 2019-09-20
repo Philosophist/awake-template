@@ -1,5 +1,5 @@
 ---
-title: Tale of the Beer Tycoon
+title: The Tale of the Beer Tycoon
 subtitle: >-
   A warning for those who would sooner bulldoze a hill than not be the king of
   it.
@@ -9,7 +9,7 @@ author: Steve The Philosophist
 date: 2019-09-19T07:00:00.000Z
 featureImage: /uploads/IMG_Stars_20190405_193410_processed.jpg
 ---
-# Tale of The Beer Tycoon
+# The Tale of The Beer Tycoon
 
 Once there was a brewer named Dave who created a brew.
 
