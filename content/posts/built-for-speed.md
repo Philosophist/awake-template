@@ -161,7 +161,11 @@ He remained at the top, with a fortune and throne,
 
 Drinking his second favorite beer.
 
+<br/>
+
 \-The End-
+
+<br/>
 
 Thanks for reading! Let me know in the comments below what you think! The hope is that I can turn this story into a physical book that would be a simple coffee table print and styled like a children's book. If you like it, consider joining the newsletter for updates on when I launch a Patreon page for the blog and Kickstarter page for the publishing campaign. 
 
