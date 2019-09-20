@@ -21,6 +21,8 @@ It paired well with anything you wanted to eat.
 
 
 
+
+
 Dave determined it was his favorite beer, 
 
 convinced it was better than any.
@@ -28,6 +30,8 @@ convinced it was better than any.
 So he set off to build a small business. 
 
 He invested everything for the taste buds of the many.
+
+
 
 
 
@@ -39,6 +43,8 @@ He had business savvy to spare,
 
  As his large competitors laughed.
 
+
+
 But Dave’s business was booming,
 
 In almost no time, it seemed.
@@ -49,6 +55,8 @@ Just to buy him out clean.
 
 
 
+
+
 Dave turned to them and said, "No thank you.
 
 I don't know how my beer truly fares in your view.
@@ -56,6 +64,8 @@ I don't know how my beer truly fares in your view.
 The joy of the craft is that this beer stands alone.
 
 I will build my own fortune and buy my own throne."
+
+
 
 
 
@@ -73,6 +83,8 @@ And he wore a nice suit.
 
 
 
+
+
 Beer lovers across the globe admired him. 
 
 To his fans, he was friendly.
@@ -80,6 +92,8 @@ To his fans, he was friendly.
 He sponsored beer tastings, competitions,
 
 And conventions aplenty.
+
+
 
 
 
@@ -93,6 +107,8 @@ He would to know if he was wrong.
 
 
 
+
+
 One day, Dave met a brewer named James, 
 
 With a taste of new drink.
@@ -100,6 +116,8 @@ With a taste of new drink.
 "I didn't forget my keys for nothing!," 
 
 Dave said with a wink.
+
+
 
 
 
@@ -113,6 +131,8 @@ This he had to savor.
 
 
 
+
+
 "How much do you want for it?," 
 
 Dave said with a gasp.
@@ -120,6 +140,8 @@ Dave said with a gasp.
 James replied, "I'm honored truly, 
 
 But afraid I must pass.
+
+
 
 
 
@@ -133,6 +155,8 @@ He wished James, “Good luck!” and plotted James' business to fail.
 
 
 
+
+
 Dave, The Beer Tycoon, stuck to his tactics,
 
 What would give what he was after.
@@ -140,6 +164,8 @@ What would give what he was after.
 "’Tis a shame," he thought, 
 
 "about that talented crafter."
+
+
 
 James' beer had failed the market, 
 
@@ -151,6 +177,8 @@ Not business as a miser.
 
 
 
+
+
 To the end of his days, Dave The Beer Tycoon lived on with great cheer.
 
 He remained at the top, with a fortune and throne, 
@@ -159,8 +187,13 @@ Drinking his second favorite beer.
 
 
 
+
+
 \-The End-
 
-Thanks for reading! Let me know in the comments below what you think! The hope is that I can turn this story into a physical book that would be a simple coffee table print and styled like a children's book. If you like it, consider joining the newsletter for updates on when I launch a Patreon page for the blog and Kickstarter page for the publishing campaign. \
+
+
+Thanks for reading! Let me know in the comments below what you think! The hope is that I can turn this story into a physical book that would be a simple coffee table print and styled like a children's book. If you like it, consider joining the newsletter for updates on when I launch a Patreon page for the blog and Kickstarter page for the publishing campaign. 
+
 \
 I will need to hire an artist to do the drawings before I launch a Kickstarter, so if you can donate in the future or if you can make some contributions of fan art to share ideas and even show off your own skills, that would be greatly appreciated.
