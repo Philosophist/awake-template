@@ -17,9 +17,9 @@ It was a beer to itself. Nothing compared as he knew.
 
 It was strong, hoppy, malty, and sweet.
 
-It paired well with anything you wanted to eat.
+It paired well with anything you wanted to eat.\
 
-\~\~\~\~
+
 
 Dave determined it was his favorite beer, 
 
