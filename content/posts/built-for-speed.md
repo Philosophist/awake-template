@@ -151,7 +151,7 @@ With James none the wiser.
 
 Dave saw it as just business, 
 
-Not the business of a miser.
+Not the business of a miser.  
 
 \~\~\~\~
 
@@ -159,7 +159,7 @@ To the end of his days, Dave The Beer Tycoon lived on with good cheer.
 
 He remained at the top, with a fortune and throne, 
 
-Drinking his second favorite beer.
+Drinking his second favorite beer.  
 
 ~
 
