@@ -61,7 +61,7 @@ export default {
 .is-one-quarter {
   padding: 0 20px;
   &.right-sidebar {
-    border-left: 1px solid #eee;
+    border-left: 1px solid #000;
   }
   &.left-sidebar {
     border-right: 1px solid #eee;
