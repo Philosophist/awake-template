@@ -19,7 +19,7 @@ It was strong, hoppy, malty, and sweet.
 
 It paired well with anything you wanted to eat.
 
-<br/>
+/
 
 Dave determined it was his favorite beer, 
 
@@ -27,9 +27,9 @@ convinced it was better than any.
 
 So he set off to build a small business. 
 
-He invested everything for the taste buds of the many.
+He invested everything for the taste buds of the many./
 
-<br/>
+
 
 Over time, Dave discovered 
 
