@@ -19,8 +19,6 @@ It was strong, hoppy, malty, and sweet.
 
 It paired well with anything you wanted to eat.\
 
-
-
 Dave determined it was his favorite beer, 
 
 convinced it was better than any.
