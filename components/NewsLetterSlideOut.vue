@@ -27,13 +27,13 @@ export default {
   components: { NewsLetterForm },
   data() {
     return {
-      active: true
+      active: false
     }
   },
   computed: {
     header() {
       return (
-        this.$siteConfig.newsletter.heading || 'Subscribe to Our Newsletter'
+        this.$siteConfig.newsletter.heading || 'Get Updates'
       )
     }
   },
