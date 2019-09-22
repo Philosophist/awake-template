@@ -89,7 +89,7 @@ export default {
   &:before {
     transform-origin: left;
     content: '';
-    background: rgb(1, 10, 56);
+    background: rgb(238, 238, 238);
     width: 100%;
     position: absolute;
     top: 0;
