@@ -140,7 +140,7 @@ export default {
   .subtitle,
   .under-subtitle,
   .under-subtitle strong {
-    color: white;
+    color: black;
   }
 }
 .hero-theme-light.hero {
