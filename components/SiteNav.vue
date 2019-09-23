@@ -78,4 +78,7 @@ export default {
   color:cyan;
 }
 
+.navbar {
+    background-color: darkblue;
+}
 </style>

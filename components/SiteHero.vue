@@ -127,7 +127,7 @@ export default {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.2);
+    background: rgba(0, 0, 0, 0.4);
     position: absolute;
   }
   .hero-body {
@@ -140,7 +140,7 @@ export default {
   .subtitle,
   .under-subtitle,
   .under-subtitle strong {
-    color: #ffffff;
+    color: cyan;
   }
 }
 .hero-theme-light.hero {
