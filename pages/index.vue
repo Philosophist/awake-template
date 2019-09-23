@@ -46,9 +46,6 @@ export default {
 </script>
 
 <style>
-.body {
-  background: rgb(2, 13, 82);
-}
 .home-page .under-subtitle {
   border-top: none;
   background: rgb(2, 13, 82);
