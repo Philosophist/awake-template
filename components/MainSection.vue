@@ -52,9 +52,12 @@ export default {
 </script>
 
 <style lang="scss">
+.body {
+  background-color: rgb(2, 13, 82);
+}
+
 .page-main-section {
   margin-top: 52px;
-  background-color: rgb(2, 13, 82);
 }
 .hero + .page-main-section {
   margin-top: initial;
