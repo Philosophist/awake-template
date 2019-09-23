@@ -75,10 +75,7 @@ export default {
 
 .navbar-menu a {
   display: block;
-  background-color: darkblue;
+  color:cyan;
 }
 
-.navbar, .navbar-end, .navbar-menu {
-    background-color: darkblue;
-}
 </style>
