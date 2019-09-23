@@ -7,6 +7,7 @@
       :srcset="responsiveImage.srcSet"
     />
     <div class="hero-body">
+      <img src="/logo-frames/logo-f0.svg">
       <div class="container">
         <h1 class="title animated fadeInUp">
           {{ title }}
@@ -64,8 +65,13 @@ export default {
 
 .title {
   font-weight: 300;
+  font-size: 5rem;
+  font-family: Papyrus, fantasy;
+  font-style: normal;
   @media (min-width: 768px) {
-    font-size: 3.2rem;
+    font-size: 3rem;
+    font-family: Papyrus, fantasy;
+    font-style: normal;
   }
 }
 .subtitle,
@@ -127,7 +133,7 @@ export default {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(0, 0, 0, 0.6);
+    background: rgba(0, 0, 0, 0.7);
     position: absolute;
   }
   .hero-body {
@@ -153,5 +159,9 @@ export default {
   .under-subtitle strong {
     text-shadow: 1px 1px 2px white;
   }
+}
+
+.hero-body {
+    padding-top: 0rem;
 }
 </style>
