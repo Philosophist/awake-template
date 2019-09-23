@@ -106,7 +106,7 @@ export default {
   .title,
   .subtitle,
   strong {
-    color: white;
+    color: darkblue;
   }
   .card:hover {
     .card-content {

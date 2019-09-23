@@ -78,7 +78,6 @@ export default {
 </script>
 <style scoped lang="scss">
 .subtitle {
-  opacity: 0.5;
   font-size: 0.8rem;
 }
 .empty-content-placeholder {
@@ -110,5 +109,9 @@ export default {
   &:hover {
     transform: scale(1.02);
   }
+}
+
+.subtitle {
+    color: darkblue;
 }
 </style>
