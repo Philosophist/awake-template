@@ -114,4 +114,8 @@ export default {
 .subtitle {
     color: darkblue;
 }
+
+.card-content {
+    background-color: aqua;
+}
 </style>
