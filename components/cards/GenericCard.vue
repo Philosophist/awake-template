@@ -112,7 +112,7 @@ export default {
 }
 
 .subtitle {
-    color: darkblue;
+    color: floralwhite;
 }
 
 .card-content {
