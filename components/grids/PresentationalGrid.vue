@@ -90,7 +90,7 @@ export default {
     right: 0;
     bottom: 0;
     background: rgba(0, 0, 0, 0.8);
-    color: #0b1a77;
+    color: darkblue;
     opacity: 0;
     transition: 0.4s ease all;
   }

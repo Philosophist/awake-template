@@ -12,7 +12,7 @@ export default {
   /*
    ** Customize the progress-bar color
    */
-  loading: { color: '#fff' },
+  loading: { color: 'lightblue' },
 
   /*
    ** Headers of the page

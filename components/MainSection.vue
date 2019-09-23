@@ -58,7 +58,7 @@ export default {
 }
 .hero + .page-main-section {
   margin-top: initial;
-  background-color: rgb(2, 13, 82);
+  background-color: darkblue;
 }
 .is-one-quarter {
   padding: 0 20px;
