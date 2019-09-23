@@ -52,15 +52,13 @@ export default {
 </script>
 
 <style lang="scss">
-.body {
-  background-color: rgb(2, 13, 82);
-}
 
 .page-main-section {
   margin-top: 52px;
 }
 .hero + .page-main-section {
   margin-top: initial;
+  background-color: rgb(2, 13, 82);
 }
 .is-one-quarter {
   padding: 0 20px;

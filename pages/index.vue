@@ -48,6 +48,5 @@ export default {
 <style>
 .home-page .under-subtitle {
   border-top: none;
-  background: rgb(2, 13, 82);
 }
 </style>
