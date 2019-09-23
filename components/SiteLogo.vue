@@ -48,6 +48,7 @@ export default {
   height: 50px;
   overflow: hidden;
   width: 200px;
+  background:darkblue;
   .logo-inner {
     position: absolute;
     height: 500px;

@@ -16,7 +16,7 @@ export default {
 
 <style scoped>
 footer {
-  background: rgb(2, 13, 82);
+  background: darkblue;
   padding: 20px 10px;
   text-align: center;
   transition: 0.5s ease all;
