@@ -161,7 +161,7 @@ export default {
   }
 }
 
-.hero-body {
-    padding-top: 0rem;
+.hero.is-medium .hero-body {
+    padding-top: 3rem;
 }
 </style>
