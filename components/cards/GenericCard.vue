@@ -81,6 +81,12 @@ export default {
   font-size: 0.8rem;
   color: darkblue;
 }
+
+.subtitle strong {
+    color: floralwhite;
+    font-weight: 600;
+}
+
 .empty-content-placeholder {
   background: transparent;
   color: transparent;
