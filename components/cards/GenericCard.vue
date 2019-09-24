@@ -79,6 +79,7 @@ export default {
 <style scoped lang="scss">
 .subtitle {
   font-size: 0.8rem;
+  color: darkblue;
 }
 .empty-content-placeholder {
   background: transparent;
@@ -109,10 +110,6 @@ export default {
   &:hover {
     transform: scale(1.02);
   }
-}
-
-.subtitle {
-    color: floralwhite;
 }
 
 .card-content {
