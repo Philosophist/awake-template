@@ -62,6 +62,7 @@ export default {
 <style lang="scss" scoped>
 .navbar-item img {
   max-height: 2rem;
+  color: aliceblue;
 }
 .site-search-wrapper {
   transform: translateX(5px);
