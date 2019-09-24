@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: "Steve The Philosophist's Blog",
+  siteName: "The Philosophist's Blog",
   tagline: 'Resisting Progress Is Futile',
   featureImage: '/uploads/IMG_Surf_20180703_183027_processed.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
