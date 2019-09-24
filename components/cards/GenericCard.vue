@@ -82,9 +82,8 @@ export default {
   color: darkblue;
 }
 
-.subtitle strong {
-    color: floralwhite;
-    font-weight: 600;
+.title {
+  color: blue;
 }
 
 .empty-content-placeholder {
@@ -102,6 +101,7 @@ export default {
     bottom: 0;
     animation: fillHorizontal 2s linear infinite;
   }
+
   &.subtitle {
     width: 70%;
   }
