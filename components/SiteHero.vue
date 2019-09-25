@@ -7,7 +7,7 @@
       :srcset="responsiveImage.srcSet"
     />
     <div class="hero-body">
-      <img src="/logo-frames/logo-f0.svg">
+      <img class="home-page" src="/logo-frames/logo-f0.svg">
       <div class="container">
         <h1 class="title animated fadeInUp">
           {{ title }}
