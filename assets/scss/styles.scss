@@ -26,3 +26,11 @@ body {
 .subtitle strong {
     color: blue;
 }
+
+.hero-body [src="/logo-frames/logo-f0.svg"] {
+    display: none;
+}
+
+#home-page .hero-body [src="/logo-frames/logo-f0.svg"] {
+    display: initial;
+}
